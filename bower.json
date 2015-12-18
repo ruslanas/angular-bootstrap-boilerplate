@@ -1,0 +1,22 @@
+{
+  "name": "angular-bootstrap-boilerplate",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ruslanas Balčiūnas <ruslanas.com@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular": "~1.4.8"
+  }
+}
