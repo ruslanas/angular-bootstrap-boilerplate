@@ -4,7 +4,7 @@ Angular Bootstrap Application Boilerplate
 Prerequisites `node` and `bower`
 
 ```
-git clone https://github.com/ruslanas/angular-bootstrap-boilerplate
+git clone https://github.com/ruslanas/angular-bootstrap-boilerplate.git
 bower install
 ```
 
