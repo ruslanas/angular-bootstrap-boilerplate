@@ -1,7 +1,13 @@
 Angular Bootstrap Application Boilerplate
 =========================================
 
-Prerequisites `node` and `bower`
+Prerequisites
+-------------
+
+`node` and `npm install -g bower`
+
+Install
+-------
 
 ```
 git clone https://github.com/ruslanas/angular-bootstrap-boilerplate.git
@@ -10,7 +16,8 @@ npm install
 bower install
 ```
 
-Static file server runs on port 9000
+File server (port 9000)
+-----------------------------------
 
 ```
 npm start
